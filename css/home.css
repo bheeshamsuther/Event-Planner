@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/background.jpg")
+}
+#card-1{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.card{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-family: Rockwell;
+    display: inline-block;
+    margin: 5px;
+    margin-bottom: 5px;
+    
+    }
+.list-group-item{
+    color: white;
+    font-family: Rockwell;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+
+}
+.btn-outline-info{
+    margin-right: 10px;
+    width: 45%;
+}

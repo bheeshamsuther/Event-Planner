@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/background.jpg")
+}
+.card{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-family: Rockwell;
+    margin: 5px;
+display: inline-block;    
+    
+    }
+.list-group-item{
+    color: white;
+    font-family: Rockwell;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+
+}
+
+#main1{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+
+.btn-outline-info{
+    margin-right: 10px;
+}
+
+#span1{
+    padding: 3px;
+    margin-left: 25px;
+    /* background-color: rgba(0,0,0,0.5); */
+    border-radius: 5px;
+    border: 1px solid darkcyan;
+
+    
+
+
+}
+#span2{
+    padding: 3px;
+    margin-left: 20px;
+    /* background-color: rgba(0,0,0,0.5); */
+    width: 30%;
+    border: 1px solid darkcyan;
+    border-radius: 5px;
+
+}
